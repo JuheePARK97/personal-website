@@ -26,6 +26,7 @@ projects:
     archived: false
     forks: true
     projects: personal website
+    repository: https://juheepark97.github.io/personal-website/
     # - repo-name
 
 # social_media:
